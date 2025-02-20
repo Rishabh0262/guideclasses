@@ -1,0 +1,10 @@
+client/node_modules/
+client/.next/
+client/.env
+client/.DS_Store
+
+
+node_modules/
+.next/
+.env
+.DS_Store
